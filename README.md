@@ -2,7 +2,7 @@
 
 Camelot is a game made in 3 days in YOUNG GAME DEV CAMT 2020. (Theme, Defense)
 
-Player needs to defense a castle against enemy attacks while-  switching between physical and magical shields to block an appropriate attack.
+Player needs to defense a castle against enemy attacks while switching between physical and magical shields to block an appropriate attack.
 
 ## How to play
 - Press Z to change to Physical Shield (Block arrow).
